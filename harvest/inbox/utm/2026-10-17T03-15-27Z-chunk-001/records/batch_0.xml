@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>00804nam a2200229   4500</leader>
+  <controlfield tag="001">u1</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20210222123513.0</controlfield>
+  <controlfield tag="008">071123s1999    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">12248 ra</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Zamzam Abas</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kepimpinan pengajaran di kalangan guru kanan mata pelajaran sekolah menengah Daearah Kota Tinggi</subfield>
+    <subfield code="h">[microfilm] :</subfield>
+    <subfield code="b">satu tinjauan /</subfield>
+    <subfield code="c">Zamzam Abas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 title on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Thesis (Sarjana Pendidikan (Pengurusan dan Pentadbiran)) - Universiti Teknologi Malaysia, 1999</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Teachers</subfield>
+    <subfield code="x">Rating of</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Johor</subfield>
+    <subfield code="9">170069</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Leadership</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1</subfield>
+    <subfield code="d">1</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 12248</subfield>
+    <subfield code="p">30000010084114</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u2</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">071123s2004    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL </subfield>
+    <subfield code="b">12926 ra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Sintesis ketohidrazon dan penggunaannya sebagai reagen dalam analisis spektrofluorimetri aluminium (III)</subfield>
+    <subfield code="h">[microfilm] /</subfield>
+    <subfield code="c">Abdul Malik Muhammad Nur ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 reel :</subfield>
+    <subfield code="b">negataive ;</subfield>
+    <subfield code="c">35 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">5 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Thesis (Sarjana Sains (Kimia)) - Universiti Teknologi Malaysia, 2004</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Spectrophotometry</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Land value taxation</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Terengganu</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Storm sewers</subfield>
+    <subfield code="z">Malaysia</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Land trusts (Islamic law)</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Johor</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Assembly-line methods</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Abdul Malik Muhammad Nur</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2</subfield>
+    <subfield code="d">2</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 12926</subfield>
+    <subfield code="p">30000010111257</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">070129s2006    my                  may</controlfield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="1" ind2="4">
+    <subfield code="a">TH425</subfield>
+    <subfield code="b">R69 2006 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Rozaimah Mamod</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pelaksanaan e-perolehan (eP) dalam industri pembinaan Malaysia /</subfield>
+    <subfield code="c">Rozaimah Mamod</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Ukur Bahan) - Universiti Teknologi Malaysia, 2006</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">03</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">FABUL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Construction contracts</subfield>
+    <subfield code="x">Management</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Construction industry</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PROPARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3</subfield>
+    <subfield code="d">3</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">4</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Emotional intelligence [videorecording]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD</subfield><subfield code="b">CD</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-4</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD</subfield><subfield code="b">CD</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-4</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u5</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">120321s2005    bl         h        eng d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">CP</subfield>
+    <subfield code="b">013985</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Can we talk</subfield>
+    <subfield code="h">[videorecording]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Sydney, Australia :</subfield>
+    <subfield code="b">Mind Resources, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 videodiscs (25 min.05 sec.)</subfield>
+    <subfield code="b">sd., col. ;</subfield>
+    <subfield code="c">12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Available in 2 vols. V.1 Can we talk --- V.2 Support material.</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Maturation (Psychology)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Communication</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">210312</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">DVD</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">5</subfield>
+    <subfield code="d">5</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">2871.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 013985 v.2</subfield>
+    <subfield code="p">30000010130062</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">2871.00</subfield>
+    <subfield code="y">DVD</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">2871.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 013985 v.1</subfield>
+    <subfield code="p">30000010130061</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">2871.00</subfield>
+    <subfield code="y">DVD</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">302</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ipoh (Perak) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-302</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">303</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Langkawi (Kedah) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-303</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">304</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bukit Chintawasa (Kelantan &amp;amp; Terengganu) [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-304</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-304</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-304</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">305</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kuala Berang (Terengganu) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-305</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">306</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bukit Besi (Terengganu) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-306</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">307</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kuala Rompin / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-307</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-307</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-307</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">308</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cukai [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-308</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-308</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">309</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Front Elevation of Central Complex, International Islamic University Malaysia Campus in Gombak, Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Book - Archive</subfield><subfield code="b">Book - Archive</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-309</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">310</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menteri-Menteri Kabinet Malaysia 1999</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Book - Archive</subfield><subfield code="b">Book - Archive</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-310</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">311</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sarawak [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-311</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-311</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">312</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Upernavik (Greenland) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-312</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">313</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Thule (Greenland) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-313</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">314</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Godthaab (Greenland) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-314</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">315</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Labrador (Canada) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-315</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">316</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Grand Newfoundland Banks (Canada) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-316</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">317</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Chesterfield Inlet (Canada) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-317</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">318</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Fox Basin (Canada) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-318</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">319</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Havana (Cuba) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-319</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">320</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Fairbanks (Alaska) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-320</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">321</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tierra del fuego (Argentina) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-321</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">322</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">St. Peter and St. Paul Rocks (Brazil) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-322</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">323</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Peruvian Basin (Peru) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-323</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">324</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Albemarle Island (Ecuador) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-324</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">325</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Chile Rise (Chile) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-325</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">326</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Geological map of the Fraser&apos;s Hill : sheet Selangor, Perak and Pahang, and the part of Selangor shown on the Bentong sheet [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-326</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">327</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sabah [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-327</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-327</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">328</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Semenanjung Malaysia [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-328</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">329</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Majlis perwakilan pelajar 1999</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Book - Archive</subfield><subfield code="b">Book - Archive</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-329</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">330</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sungai Ensengei (Sarawak) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-330</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">331</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Geological map of the Rasa sheet, Selangor [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-331</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-331</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">332</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Close-up : Canada - Quebec and Newfoundland [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-332</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">333</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Mexico and Central America [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-333</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">334</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Africa [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-334</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">335</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Colonization and trade in the new world [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-335</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">336</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The people&apos;s republic of China [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-336</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">337</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Malaysia [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-337</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">338</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Banci penduduk dan perumahan Malaysia, 1970: Negeri Selangor [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-338</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">339</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Peta hitungan-batu jalanraya Perak [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-339</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-339</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">340</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bilangan batu ikut jalan raya negeri Pulau Pinang [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-340</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">341</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Geology of the Oman mountains / [peta] K W Glennie ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-341</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">342</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tectonic map of Afghanistan / [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-342</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">343</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cardiganshire (Wales) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-343</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">344</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pembrokeshie (Wales) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-344</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">345</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Blucher Range : territories of Papua and New Guinea [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-345</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">346</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sabah : penggambaran udara negeri Sabah untuk Sabah forest management project [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-346</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">347</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Central Europe [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-347</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">348</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gunong Besar (Johore &amp;amp; Pahang) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-348</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">349</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengunaan tanah sekarang (present land use), Johor [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-349</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-349</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-349</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">350</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Trengganu : draft schematic soils map [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-350</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">351</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Canary Basin [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-351</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">352</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">South Atlantic Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-352</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">353</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">South Australian Basin (Eastern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-353</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">354</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">North Pacific Basin (Northwestern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-354</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">355</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">North Pacific Basin (Northeastern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-355</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">356</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">North Pacific Basin (Northern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-356</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">357</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cape Norvegia [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-357</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">358</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Rockall [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-358</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">359</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Broken Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-359</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">360</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Mangareva [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-360</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">361</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Maria Theresa Reef [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-361</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">362</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Manihiki [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-362</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">363</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Queen Maud Land (Dronning Maud Land) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-363</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">364</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Scott Island [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-364</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">365</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Mellish Seamount [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-365</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">366</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Murray Escarpment [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-366</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">367</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Australian-Antarctic Rise [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-367</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">368</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pacific Ocean (Northwestern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-368</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">369</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Wake Island [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-369</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">370</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Marcus Island (Minami Tori Shima) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-370</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">371</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Southeast Pacific Basin (Northern part) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-371</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">372</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Rio Grande Plateau [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-372</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">373</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Azores (Acores) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-373</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u377</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344185</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9497 H68 1971</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Howland Island</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Howland Island</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">374</subfield>
+    <subfield code="d">374</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9497 H68 1971</subfield>
+    <subfield code="p">30000003735515</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u378</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344186</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9497 P37 1969</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Parece Vela (Okino Tori Shima)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1969</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Parece Vela</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">375</subfield>
+    <subfield code="d">375</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9497 P37 1969</subfield>
+    <subfield code="p">30000003735523</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u379</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344192</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9802 W54 1972</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Wilkes Land</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1972</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Wilkes Land</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">376</subfield>
+    <subfield code="d">376</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9802 W54 1972</subfield>
+    <subfield code="p">30000003735531</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u380</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344194</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9802 P52 1972</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Plateau Sovetskoye (Plato Sovetskoje)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1972</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Plateau Sovetskoye</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">377</subfield>
+    <subfield code="d">377</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9802 P52 1972</subfield>
+    <subfield code="p">30000003735549</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">378</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Shackleton Range [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-378</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u382</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344198</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9607 J63 1969</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Johnston Island</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and cartography,</subfield>
+    <subfield code="c">1969</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Johnston Island</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">379</subfield>
+    <subfield code="d">379</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9607 J63 1969</subfield>
+    <subfield code="p">30000003735564</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u383</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344199</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G4382.O2 H66 1968</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Honolulu</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Budapest :</subfield>
+    <subfield code="b">National Office of Lands and Mapping,</subfield>
+    <subfield code="c">1968</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Honolulu</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">380</subfield>
+    <subfield code="d">380</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G4382.O2 H66 1968</subfield>
+    <subfield code="p">30000003735572</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u384</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991214</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344202</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9665 S24 1967</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sala Y Gomez</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1967</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Sala Y Gomez</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">381</subfield>
+    <subfield code="d">381</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9665 S24 1967</subfield>
+    <subfield code="p">30000003735580</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">382</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">African-Antarctic Basin [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-382</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">383</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">African-Antarctic Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-383</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">384</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Arabian-Indian Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-384</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">385</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Arabian Sea [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-385</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">386</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Central Indian Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-386</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">387</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Central Indian Basin [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-387</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">388</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Clipperton Island (Ile Clipperton) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-388</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">389</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Crozet Basin [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-389</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">390</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">West Indian Ridge [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-390</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u394</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991215</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344224</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9182 M54 1971</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mill Ridge</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Mill Ridge</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">391</subfield>
+    <subfield code="d">391</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9182 M54 1971</subfield>
+    <subfield code="p">30000003735697</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u395</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">991215</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344226</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G9182 A38 1973</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Agulhas Basin</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and cartography,</subfield>
+    <subfield code="c">1973</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Agulhas Basin</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">392</subfield>
+    <subfield code="d">392</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G9182 A38 1973</subfield>
+    <subfield code="p">30000003735705</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u396</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000103</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344465</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G1 N33 j149 (4) 1976</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Close-up :</subfield>
+    <subfield code="b">U.S.A. Hawaii</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:675,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Washington, D.C. :</subfield>
+    <subfield code="b">National Geographic Society,</subfield>
+    <subfield code="c">1976</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Supplement to the National Geographic Society, April 1976, Vol. 149, No. 4</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Hawaii</subfield>
+    <subfield code="x">Maps</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">393</subfield>
+    <subfield code="d">393</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G1 N33 j149 (4) 1976</subfield>
+    <subfield code="p">30000003735721</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">394</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">American Association of Petroleum Geologists</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Geological highway map of the state of Hawaii and the state of Alaska / [peta] compiled by the American Association of Petroleum Geologists</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-394</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u398</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000103</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344475</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G7004 D52 1973</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Dickson (Dikson)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1973</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Dickson (Russia)</subfield>
+    <subfield code="x">Relief)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">395</subfield>
+    <subfield code="d">395</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G7004 D52 1973</subfield>
+    <subfield code="p">30000003735762</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u399</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000103</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">344478</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G7004 K72 1975</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Krasnoyarsk (Krasnojarsk)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy and Cartography,</subfield>
+    <subfield code="c">1975</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Krasnoyarsk (Russia)</subfield>
+    <subfield code="x">Relief)</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">396</subfield>
+    <subfield code="d">396</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G7004 K72 1975</subfield>
+    <subfield code="p">30000003735788</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">397</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Hydrogeologic maps and sections of sycamore creek watershed Maricopa County, Arizona [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-397</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">398</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Melaka : bilangan batu ikut jalan raya [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-398</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">399</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Selangor [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-399</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">400</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Malaysia Timor [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-400</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">401</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Lau, Liang See</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Design and construction of a ship stability experimental appratus/ [lukisan teknik] Lau Liang See</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-401</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-401</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+</collection>

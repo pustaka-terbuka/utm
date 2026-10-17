@@ -1,0 +1,3117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>00804nam a2200229   4500</leader>
+  <controlfield tag="001">u1</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20210222123513.0</controlfield>
+  <controlfield tag="008">071123s1999    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">12248 ra</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Zamzam Abas</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kepimpinan pengajaran di kalangan guru kanan mata pelajaran sekolah menengah Daearah Kota Tinggi</subfield>
+    <subfield code="h">[microfilm] :</subfield>
+    <subfield code="b">satu tinjauan /</subfield>
+    <subfield code="c">Zamzam Abas</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 title on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Thesis (Sarjana Pendidikan (Pengurusan dan Pentadbiran)) - Universiti Teknologi Malaysia, 1999</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Teachers</subfield>
+    <subfield code="x">Rating of</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Johor</subfield>
+    <subfield code="9">170069</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Leadership</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">1</subfield>
+    <subfield code="d">1</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 12248</subfield>
+    <subfield code="p">30000010084114</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u2</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">071123s2004    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL </subfield>
+    <subfield code="b">12926 ra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Sintesis ketohidrazon dan penggunaannya sebagai reagen dalam analisis spektrofluorimetri aluminium (III)</subfield>
+    <subfield code="h">[microfilm] /</subfield>
+    <subfield code="c">Abdul Malik Muhammad Nur ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 reel :</subfield>
+    <subfield code="b">negataive ;</subfield>
+    <subfield code="c">35 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">5 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Thesis (Sarjana Sains (Kimia)) - Universiti Teknologi Malaysia, 2004</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Spectrophotometry</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Land value taxation</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Terengganu</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Storm sewers</subfield>
+    <subfield code="z">Malaysia</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Land trusts (Islamic law)</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Johor</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Assembly-line methods</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Abdul Malik Muhammad Nur</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">2</subfield>
+    <subfield code="d">2</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 12926</subfield>
+    <subfield code="p">30000010111257</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">070129s2006    my                  may</controlfield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="1" ind2="4">
+    <subfield code="a">TH425</subfield>
+    <subfield code="b">R69 2006 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Rozaimah Mamod</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pelaksanaan e-perolehan (eP) dalam industri pembinaan Malaysia /</subfield>
+    <subfield code="c">Rozaimah Mamod</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Ukur Bahan) - Universiti Teknologi Malaysia, 2006</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">03</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">FABUL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Construction contracts</subfield>
+    <subfield code="x">Management</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Construction industry</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PROPARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3</subfield>
+    <subfield code="d">3</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">4</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Emotional intelligence [videorecording]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD</subfield><subfield code="b">CD</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-4</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD</subfield><subfield code="b">CD</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-4</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u5</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">120321s2005    bl         h        eng d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">CP</subfield>
+    <subfield code="b">013985</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Can we talk</subfield>
+    <subfield code="h">[videorecording]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Sydney, Australia :</subfield>
+    <subfield code="b">Mind Resources, </subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 videodiscs (25 min.05 sec.)</subfield>
+    <subfield code="b">sd., col. ;</subfield>
+    <subfield code="c">12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Available in 2 vols. V.1 Can we talk --- V.2 Support material.</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Maturation (Psychology)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Communication</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">210312</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">DVD</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">5</subfield>
+    <subfield code="d">5</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">2871.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 013985 v.2</subfield>
+    <subfield code="p">30000010130062</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">2871.00</subfield>
+    <subfield code="y">DVD</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">2871.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 013985 v.1</subfield>
+    <subfield code="p">30000010130061</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">2871.00</subfield>
+    <subfield code="y">DVD</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u6</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">120221s1987    my         h        eng d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">CP</subfield>
+    <subfield code="b">013984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Jungle green </subfield>
+    <subfield code="h">[videorecording] :</subfield>
+    <subfield code="b">khaki brown : Malaya's fight against terrorism</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">TV3, </subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 videodiscs (21 min 57 sec)</subfield>
+    <subfield code="b">bsd., col. ;</subfield>
+    <subfield code="c"> 12 cm.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">This documentary series depicts how our nation faced an era of terror for 12 years from 1948 - 1960, and the strategies adopted which culminated in victory.</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="a">PSZKLL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Documentary films</subfield>
+    <subfield code="z">Malaya</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Malaya</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">210212</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">DVD</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">6</subfield>
+    <subfield code="d">6</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZKLL</subfield>
+    <subfield code="b">PSZKLL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="d">2022-04-04</subfield>
+    <subfield code="g">21.90</subfield>
+    <subfield code="l">1</subfield>
+    <subfield code="o">CP 013984</subfield>
+    <subfield code="p">30000010138475</subfield>
+    <subfield code="r">2022-05-17 00:00:00</subfield>
+    <subfield code="s">2022-05-17</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">21.90</subfield>
+    <subfield code="y">CDMED</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">21.90</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 013984</subfield>
+    <subfield code="p">30000010138474</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">21.90</subfield>
+    <subfield code="y">DVD</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">7</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ahmad Nidzam Abdul Wahab</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Preparation and morphological study of polystyrene/montmorillonite (PS/MMT) nanocomposite by suspension polymerization [microfim] / Ahmad Nidzam Abdul Wahab ... [e al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Microfilm - Archives</subfield><subfield code="b">Microfilm - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-7</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u8</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005335.0</controlfield>
+  <controlfield tag="008">080903s2003    my 000     z      fueng</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">013469 ra</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Lau, Shiau Lin</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Effects of emulsifier and viscosifier on the performance of low oil water ratio mud system</subfield>
+    <subfield code="h">[microform] /</subfield>
+    <subfield code="c">Lau Shiau Lin ...[et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 microfilm reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">5 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Kejuruteraan (Petroleum)) - Universiti Teknologi Malaysia, 2003</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Drilling muds</subfield>
+    <subfield code="x">Additives</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Lau, Shiau Lin</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">8</subfield>
+    <subfield code="d">8</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 013469</subfield>
+    <subfield code="p">30000010146458</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u9</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">080904s2003    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">013468 ra</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Adi Atsauri Hamzah</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Peranan lilin dan suhu terhadap kestabilan emulsi air-dalam-minyak mentah</subfield>
+    <subfield code="h">[microfilm] /</subfield>
+    <subfield code="c">Adi Atsauri Hamzah ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">5 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Kejuruteraan (Petroleum)) - Universiti Teknologi Malaysia, 2003</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Emulsions</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Adi Atsauri Hamzah</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">9</subfield>
+    <subfield code="d">9</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 013468</subfield>
+    <subfield code="p">30000010146457</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u10</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">070912s2000    my                  may</controlfield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="1" ind2="4">
+    <subfield code="a">HE311.M32</subfield>
+    <subfield code="b">H33 2000 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Hafsania Jamian</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kajian keberkesanan perlaksanaan lorong khas bas/teksi di bandaraya Kuala Lumpur /</subfield>
+    <subfield code="c">Hafsania Jamian</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Perancangan Bandar dan Wilayah) - Universiti Teknologi Malaysia, 2000</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">08</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">FABUL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Urban transportation</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Kuala Lumpur</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Buses</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Kuala Lumpur</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Taxicabs</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Kuala Lumpur</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PROPREF</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">10</subfield>
+    <subfield code="d">10</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">FABUL</subfield>
+    <subfield code="b">FABUL</subfield>
+    <subfield code="c">THSC</subfield>
+    <subfield code="d">2021-06-29</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">3</subfield>
+    <subfield code="o">HE311 M32 H33 2000</subfield>
+    <subfield code="p">FAB30000000222</subfield>
+    <subfield code="r">2021-10-25 00:00:00</subfield>
+    <subfield code="s">2021-10-25</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PROPREF</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u11</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">080919s2005    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">013267 ra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Keberkesanan latihan keselamatan dan kesihatan pekerjaan terhadap pekerja</subfield>
+    <subfield code="h">[microform] :</subfield>
+    <subfield code="b">satu kajian di V. S Industri Berhad, Senai, Johor /</subfield>
+    <subfield code="c">Lau Chai Hing ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 microfilm reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">5 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Sains (Pembangunan Sumber Manusia))  - Universiti Teknologi Malaysia, 2005</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Employees</subfield>
+    <subfield code="x">Training of.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Industrial safety</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Industrial hygiene</subfield>
+  </datafield>
+  <datafield tag="700" ind1="3" ind2=" ">
+    <subfield code="a">Lau, Chai Hing</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">11</subfield>
+    <subfield code="d">11</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 013267</subfield>
+    <subfield code="p">30000010146918</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u12</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">080919s2005    my 000            fumay</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">MFL</subfield>
+    <subfield code="b">013254 ra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Analisis keperluan latihan di kalangan kakitangan perkeranian di Jabatan Khidmat Sokongan dan Jabatan Kawalan Kredit Tenaga Nasional Berhad Distribution (TNBD) Temerloh, Pahang</subfield>
+    <subfield code="h">[microform] /</subfield>
+    <subfield code="c">Azman Harun ... [et al.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 microfilm reel :</subfield>
+    <subfield code="b">negative ;</subfield>
+    <subfield code="c">35 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">6 titles on 1 microfilm</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Project Paper (Sarjana Muda Sains (Pembangunan Sumber Manusia))  - Universiti Teknologi Malaysia, 2005</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">0</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Employees</subfield>
+    <subfield code="x">Training of.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Performance</subfield>
+    <subfield code="x">Evaluation</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Azman Harun</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">12</subfield>
+    <subfield code="d">12</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">MFL 13254</subfield>
+    <subfield code="p">30000010146919</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MCROFLMARC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">13</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ahmad Farid Mat Misiah</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kesan kedudukan telaga terhadap prestasi banjiran air pada telaga mendatar [microfilm] / Ahmad Farid Mat Misiah ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Microfilm - Archives</subfield><subfield code="b">Microfilm - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-13</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u14</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">080124s2005    inu        d        eng</controlfield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">CP</subfield>
+    <subfield code="b">10150</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moran, Matthew</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The IT career builders toolkit</subfield>
+    <subfield code="h">[compact disc] /</subfield>
+    <subfield code="c">Matthew Moran</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Indianapolis, IN :</subfield>
+    <subfield code="b">Cisco Press,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 CD-ROM ;</subfield>
+    <subfield code="c">12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanies text of the same title : QA76.25 M67 2005</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">57</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">58</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Information technology</subfield>
+    <subfield code="x">Vocational guidance</subfield>
+    <subfield code="z">United States</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">CDACC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">14</subfield>
+    <subfield code="d">14</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">CP 10150</subfield>
+    <subfield code="p">30000010123167</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">CDACC</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u15</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">080530s2007    my                  may</controlfield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="1" ind2="4">
+    <subfield code="a">TD801</subfield>
+    <subfield code="b">M62 2007 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Md. Nazuan Md. Nasir</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kajian tentang sistem pengurusan sampah sarap pada perumahan pangsa dan bangunan tinggi sekitar Johor Bahru /</subfield>
+    <subfield code="c">Md Nazuan Md Nasir</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Topical Study (Sarjana Muda Senibina) - Universiti Teknologi Malaysia, 2007</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">55</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">FABUL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Refuse and refuse disposal</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Johor</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">High-rise apartment buildings</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PROPARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">15</subfield>
+    <subfield code="d">15</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">16</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Anuar Mohamad</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kesan kalsium karbonat terhadap sifat mekanikal adunan getah asli dan polipropilena [microfilm] / Anuar Mohamad ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Microfilm - Archives</subfield><subfield code="b">Microfilm - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-16</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">17</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ahmad Azmi Arif Awang @ Mat Nor</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kajian keselamatan dan kesihatan pekerjaan di tapak pembinaan / [microform] Ahmad Azmi Arif Awang @ Mat Nor ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Microfilm - Archives</subfield><subfield code="b">Microfilm - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-17</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">18</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Parke, Carol S</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Using assessment to improve middle-grades mathematics teaching &amp;amp; learning  [electronic resource]: suggested activities using QUASAR tasks, scoring criteria, and students work / Carol S. Parke ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD - Accompanies</subfield><subfield code="b">CD - Accompanies</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-18</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">19</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Bilal S. Hamid</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">A comparison between finite element analysis code and cosmos software [compact disc] / Bilal S. Hamid</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD - Archives</subfield><subfield code="b">CD - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-19</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">20</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nuraliza Abdul Khalit</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Electronic community portal for DBKL residental area [compact disc] / Nuraliza Abdul Khalit</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD - Archives</subfield><subfield code="b">CD - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-20</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">21</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Jinal Jasman</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Remediasi dan pemantauan bagi pencemaran hidrokarbon [microfilm] / Jinal Jasman ... [et al.]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Microfilm - Archives</subfield><subfield code="b">Microfilm - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-21</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">22</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Suriana Abu Bakar, 1980-</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sistem penilaian kualiti e-servis di Perpustakaan Sultanah Zanariah (PSZ) UTM, Skudai [compact disc] / Noor Suriana Abu Bakar</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">CD - Archives</subfield><subfield code="b">CD - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-22</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">23</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">University of Queensland</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Greetings from the University of Queensland to Universiti Teknologi Malaysia on the auspicious occasion of your twenty-fifth anniversary / University of Queensland</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-23</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">24</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">University of Otago</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The council, senate and members of the University of Otago, New Zealand&apos;s oldest university, offer fraternal greetings and congratulations on the occasion of the 25th anniversary of our distinguished fellow institution, Universiti Teknologi Malaysia / University of Otago</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-24</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">25</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">University of Oxford</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The Chancellor, Masters and Scholars of the University of Oxford send their greetings and good wishes to the members of Faculty and the students of the Universiti Teknologi Malaysia on the occasion of its twenty-fifth anniversary / University of Oxford</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-25</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">26</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menyanjung khidmat cemerlang dan derma bakti Sushantha Kumar Bhattacharyya, universiti ini menganugerahkan kepadanya Ijazah Kehormat Doktor Kejuruteraan / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-26</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">27</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">In recognition of the excellent service and contributions rendered, this university confers upon Sushantha Kumar Bhattacharyya the Honorary Degree of Doctor of Engineering / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-27</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">28</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menyanjung khidmat cemerlang dan derma bakti John Arbuthnott, Universiti ini menganugerahkan kepadanya Ijazah Kehormat Doktor Sains / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-28</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">29</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">In recognition of the excellent service and contributions rendered, this University confers upon John Arbuthnott The Honorary Degree of Doctor of Science / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-29</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">30</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menyanjung khidmat cemerlang dan derma bakti Sallehuddin Bin Mohamed, universiti ini menganugerahkan kepadanya Ijazah Kehormat Doktor Pengurusan / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-30</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">31</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">In recognition of the excellent service and contributions rendered, this university confers upon Sallehuddin Bin Mohamed the Honorary Degree of Doctor of Management / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-31</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">32</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menyanjung khidmat cemerlang dan derma bakti Antony Hewish, universiti ini menganugerahkan kepadanya Ijazah Kehormat Doktor Sains / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-32</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">33</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">In recognition of the excellent service and contributions rendered, this university confers upon Antony Hewish the Honorary Degree of Doctor of Science / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-33</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">34</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menyanjung khidmat cemerlang dan derma bakti Omar bin Abdul Rahman, universiti ini menganugerahkan kepadanya Ijazah Kehormat Doktor Sains / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-34</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">35</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Menjunjung setinggi-tinggi kasih di atas kurniaan jasa bakti Duli Yang Maha Mulia Baginda Tuanku Sultan Iskandar Ibni Almarhum Sultan Ismail, dianugerahkan kepadanya Ijazah Kehormat Doktor Sains / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-35</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">36</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Royal Melbourne Institute of Technology</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Royal Melbourne Institute of Technology extends its congratulations and felicitations to the Chancellor and Members of Universiti Teknologi Malaysia on the occasion of its twenty-fifth anniversary / Royal Melbourne Institute of Technology</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-36</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">37</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Sultanah Zanariah Almarhum Tunku Ahmad</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perisytiharan oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang Di-Pertuan Agong mengisytiharkan bahawa Duli Yang Maha Mulia Seri Paduka Baginda Sultanah Zanariah sebagai Canselor Universiti Teknologi Malaysia selama tujuh tahun daripada 20 haribulan September 1986 / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-37</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">38</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Sultan Ismail Ibni Al-Marhum Sultan Ibrahim, 1894-1981</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perisytiharan oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang Di-Pertuan Agong dengan kurniaan Allah Raja bagi negara Malaysia dan segala daerah jajahan takluknya mengisytiharkan bahawa D.Y.M.M. Sultan Ismail Ibni Al-marhum Sultan Ibrahim telah dilantik sebagai Canselor Pertama bagi Universiti Teknologi Malaysia selama tujuh tahun daripada tarikh 1 haribulan September, 1976 / Universiti Teknologi Malaysia</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">UTM Certificate - Archives</subfield><subfield code="b">UTM Certificate - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-38</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">39</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">John Gnanadickam Daniel [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-39</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-39</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-39</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-39</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">40</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gunung Besar [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-40</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-40</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-40</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">41</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kuala Pilah (Negeri Sembilan) [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-41</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-41</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-41</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">42</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PRZS Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sejarah perkembangan Universiti Teknologi Malaysia [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Drawing - Archives</subfield><subfield code="b">Drawing - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-42</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Drawing - Archives</subfield><subfield code="b">Drawing - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-42</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Drawing - Archives</subfield><subfield code="b">Drawing - Archives</subfield><subfield code="o">PRZS Library</subfield><subfield code="p">UTM-42</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">43</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Sains</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Sains mengikut kursus 1979-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-43</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-43</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">44</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Kejuruteraan Awam mengikut kursus 1972-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-44</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-44</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">45</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Kejuruteraan Elektrik mengikut kursus 1972-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-45</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-45</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">46</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Kejuruteraan Jentera mengikut kursus 1972-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-46</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-46</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">47</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Kejuruteraan Kimia dan Kejuruteraan Sumber Asli</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Kejuruteraan Kimia dan Kejuruteraan Sumber Asli mengikut kursus 1975-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-47</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-47</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">48</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Pengurusan dan Pembangunan Sumber Manusia. Jabatan Pendidikan Islam</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Pengurusan dan Pembangunan Sumber Manusia/Sarjana Muda Pengurusan Teknologi mengikut tahun [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-48</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">49</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Ukur</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Ukur mengikut kursus 1972-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-49</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-49</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">50</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Sains Komputer dan Sistem Maklumat</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Sains Komputer dan Sistem Maklumat mengikut kursus 1981-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-50</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-50</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">51</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Universiti Teknologi Malaysia. Fakulti Alam Bina</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan pendaftaran pelajar Fakulti Alam Bina mengikut kursus 1972-1992 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-51</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-51</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">52</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Perangkaan graduan technical college/maktab teknik 1946-1971 [lukisan/poster]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Poster</subfield><subfield code="b">Poster</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-52</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">53</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sidmouth outline plan review and town centre map [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-53</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-53</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">54</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Displacement and other curves [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-54</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">55</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Explaination of signs and abbreviations [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-55</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">56</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Chart of the nuclides [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-56</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">57</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">North-East Sudan : triangulation observed 1935-52 [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-57</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">58</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Chart of the nuclides [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-58</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-58</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">59</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Raznjevic, Kuzman</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Handbook of thermodynamic tables and charts [carta] / Kazman Raznjevic</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-59</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-59</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">60</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Summary of binary phase diagrams [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-60</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">61</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ulu Tuaran (Sabah) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-61</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-61</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">62</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Wangsa Maju, Kuala Lumpur : Data berdigit Siri L 808 L15N F1099 (147-153) [aerial photograph]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Aerial Photograph</subfield><subfield code="b">Aerial Photograph</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-62</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">63</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Sebatik (Sabah) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-63</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-63</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">64</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Scott, David F</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Calculator guide for financial management / [carta] David F Scott...[et al]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-64</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-64</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">65</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd. Salleh Achil</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Fluid coupling test rig / [lukisan teknik] Mohd Salleh Achil</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">To be check</subfield><subfield code="b">To be check</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-65</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-65</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-65</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">66</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Dodd, James W</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Thermal methods / [carta] James W Dodd, Kenneth H Tonge, editor Braian R Currell</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-66</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">67</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">International Advisory Committee</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The International Chernobyl Project : conclusions and recommendations : assessment of radiological consequences and evaluation of protective measures / [peta] report by an International Advisory Committee</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-67</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-67</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-67</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">68</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Forse, Heather [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Quadtronic wins medal for JCB tractors. P8/07/1566. / Heather Forse</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-68</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-68</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">69</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Keeping the tracks clear for trains. P8/06/1541. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-69</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-69</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">70</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Clark, Liz [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Designed for comford and style. P8/06/1467. / Liz Clark</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-70</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-70</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">71</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Alstom power for the world&apos;s &apos;Big Cats&apos;. P8/05/1436. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-71</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-71</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">72</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bouncing idea bring forth &apos;bionic boot&apos;. P8/05/1418. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-72</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-72</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">73</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Using bacterial electrical activity for toxicity tests. P8/05/1428. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-73</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-73</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">74</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Award-winning high speed imaging system. P8/04/1367. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-74</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-74</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">75</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [auhor]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Technology award for pocket-size hearing checker. P8/06/1515. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-75</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-75</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">76</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Viewing the march of medicine. P8/05/1423. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-76</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-76</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">77</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Akumanyi, Kofi [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">British Telecom&apos;s &apos;Wired Man&apos; boldly steps into the future. P8/01/1032. / Kofi Akumanyi</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-77</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-77</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">78</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Groundhog sniffs out danger. P8/02/1156. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-78</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-78</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">79</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Charles, Richard [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Self-loading truck order won after heavy trials. P8/02/1161. / Richard Charles</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-79</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-79</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">80</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Surviving deep-sea disaster on a submarine. P7/4/0885. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-80</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-80</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">81</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Engine with tomorrow&apos;s technology. P8/02/1191. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-81</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-81</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">82</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Forging ahead in the power generation. P8/01/1069. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-82</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-82</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">83</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Akumanyi, Kofi [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Helmet-mounted camera captures criminals on film. P7/12/0921. / Kofi Akumanyi</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-83</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-83</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">84</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Shaping plants of the future. P8/01/1024. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-84</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-84</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">85</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Charles, Richard [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Scanning animals for better breeding and health. P8/01/1027. / Richard Charles</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-85</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-85</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">86</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Symes, Alan [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Watchdogs of the river. P8/02/1107. / Alan Symes</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-86</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-86</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">87</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Hands-off tyre-pressure checking P7/12/0891. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-87</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-87</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">88</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">High-performance hoses get manufacturing boost. P8/01/1067. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-88</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-88</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">89</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Akumanyi, Kofi [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Picocells replace power source in wireless networks. P8/01/1033. / Kofi Akumanyi</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-89</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-89</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">90</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hutchinson, John [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Futuristic research into ancient space. P7/10/0799. / John Hutchinson</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-90</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-90</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u93</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990504 1998    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337091</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1544 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Albert,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Millenium initiative hails steerable drill.</subfield>
+    <subfield code="n">P8/01/0983. /</subfield>
+    <subfield code="c">Albert Evans</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">25 x 20 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Albert Evans was a LPS Special Correspondent. Picture : Anne Purkiss.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 47. 3 March 1998.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Gas well drilling</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NFST/bb</subfield>
+    <subfield code="b">090816</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">150816</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">91</subfield>
+    <subfield code="d">91</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1544 1998 r</subfield>
+    <subfield code="p">30000010355809</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1544 Lampiran 1998 r</subfield>
+    <subfield code="p">30000010355808</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u94</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990505 1998    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337109</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1289 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Charles, Richard,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Reed beds can purify water in their sleep.</subfield>
+    <subfield code="n">P8/02/1123. /</subfield>
+    <subfield code="c">Richard Charles</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">21 x 14 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Richard Charles was a LPS Staff Correspondent. Picture : Southern Water.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 47. 3 March 1997.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Water</subfield>
+    <subfield code="x">Purification</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Sewage</subfield>
+    <subfield code="x">Purification</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb</subfield>
+    <subfield code="b">170516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">090616</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">ARTICLE</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">92</subfield>
+    <subfield code="d">92</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1289 Lampiran 1998 r</subfield>
+    <subfield code="p">30000010354880</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1289 1998 r</subfield>
+    <subfield code="p">30000010354879</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u95</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990505 1998    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337110</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1546 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Liz,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Write a program for reborn baby.</subfield>
+    <subfield code="n">P8/02/1125. /</subfield>
+    <subfield code="c">Liz Clark</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">20 x 25 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Liz Clark was a LPS Staff Correspondent. Picture : David Redmond.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 46. 24 February 1998.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Computer programming</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NFST/bb</subfield>
+    <subfield code="b">090816</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">150816</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">93</subfield>
+    <subfield code="d">93</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1546 1998 r</subfield>
+    <subfield code="p">30000010355813</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1546 Lampiran 1998 r</subfield>
+    <subfield code="p">30000010355812</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u96</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990505 1999    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337111</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1543 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Symes, Alan,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Fresh build techniques for trimaran warship.</subfield>
+    <subfield code="n">P9/01/2148. /</subfield>
+    <subfield code="c">Alan Symes</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">17 x 25 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alan Symes was a LPS Staff Correspondent. Picture : Dera.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 96. 9 February 1999.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Trimarans</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Warships</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NFST/bb</subfield>
+    <subfield code="b">090816</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">150816</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">94</subfield>
+    <subfield code="d">94</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1543 1999 r</subfield>
+    <subfield code="p">30000010355807</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1543 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010355806</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u97</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990505 1999    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337112</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1353 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Albert,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Making light work of giant masts.</subfield>
+    <subfield code="n">P8/11/1994. /</subfield>
+    <subfield code="c">Albert Evans</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">19 x 14 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Albert Evans was a LPS Special Correspondent. Picture : Mike Pattison.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 96. 9 February 1997.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Yacht building</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Boatbuilding</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb</subfield>
+    <subfield code="b">290516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">130616</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">95</subfield>
+    <subfield code="d">95</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1353 1999 r</subfield>
+    <subfield code="p">30000010350955</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1353 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010350956</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u98</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990505 1999    enk                 eng |</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337113</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1237 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Akumanyi, Kofi,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Portable flight simulator seat offers realistic training.</subfield>
+    <subfield code="n">P8/09/1848. /</subfield>
+    <subfield code="c">Kofi Akumanyi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">21 x 19 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kofi Akumanyi was a LPS Staff Correspondent. Picture : Alan Chandler.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 93. 19 January 1999.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Flight simulators</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Flight training</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb080516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">010616</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">96</subfield>
+    <subfield code="d">96</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1237 1999 r</subfield>
+    <subfield code="p">30000010341820</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1237 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010341819</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">97</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Evans, Albert [author]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Strategic gas pipeline links Britain to Belgium. P8/10/1881. / Albert Evans</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Photograph</subfield><subfield code="b">Photograph</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-97</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Article</subfield><subfield code="b">Article</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-97</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u100</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990506 1999    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337125</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1368 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Akumanyi, Kofi,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cleanliness technology sets industrial standards.</subfield>
+    <subfield code="n">P8/12/2027. /</subfield>
+    <subfield code="c">Kofi Akumanyi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">16 x 12 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kofi Akumanyi was a LPS Staff Correspondent. Picture : Biotrace plc.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 97. 16 February 1999.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Industrial hygiene</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb</subfield>
+    <subfield code="b">290516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">130616</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">98</subfield>
+    <subfield code="d">98</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1368 1999 r</subfield>
+    <subfield code="p">30000010350985</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1368 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010350986</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u101</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990506 1999    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337127</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1356 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Akumanyi, Kofi,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The security box that catches robbers red-handed.</subfield>
+    <subfield code="n">P8/10/1923. /</subfield>
+    <subfield code="c">Kofi Akumanyi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">19 x 19 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kofi Akumanyi was a LPS Staff Correspondent. Picture : Alan Chandler.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 97. 16 February 1999.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Cash dispensers</subfield>
+    <subfield code="x">Security measures</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb</subfield>
+    <subfield code="b">290516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">130616</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">99</subfield>
+    <subfield code="d">99</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1356 1999 r</subfield>
+    <subfield code="p">30000010350962</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1356 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010350961</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u102</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005336.0</controlfield>
+  <controlfield tag="008">990510 1999    enk</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">337142</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+    <subfield code="b">eng</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">FTG</subfield>
+    <subfield code="b">1269 r</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Akumanyi, Kofi,</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Smartquill-computer pen that records what you write.</subfield>
+    <subfield code="n">P8/10/1895. /</subfield>
+    <subfield code="c">Kofi Akumanyi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">London Press Service,</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 photograph :</subfield>
+    <subfield code="b">color ;</subfield>
+    <subfield code="c">21 x 14 cm. +</subfield>
+    <subfield code="e">1 text (1 unnumbered page)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kofi Akumanyi was a LPS Special Correspondent. Picture : "PA" News.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LPS Weekly Newsletter. Issue 91. 5 January 1999.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by text with a same call number (1 unnumbered page : 30 cm).</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Pen-based computers</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">NZF/bb</subfield>
+    <subfield code="b">110516</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">310516</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">PHOTO</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">100</subfield>
+    <subfield code="d">100</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1269 1999 r</subfield>
+    <subfield code="p">30000010354946</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">PHOTO</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MULTC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">FTG 1269 Lampiran 1999 r</subfield>
+    <subfield code="p">30000010354947</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">ARTICLE</subfield>
+  </datafield>
+</record>
+</collection>

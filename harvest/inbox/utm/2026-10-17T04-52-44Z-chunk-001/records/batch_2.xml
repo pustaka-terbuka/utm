@@ -1,0 +1,2790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">202</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tasik Bera [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-202</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-202</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">203</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sungai Tekam [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-203</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-203</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">204</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Batu Pahat [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-204</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-204</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">205</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Yong Peng [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-205</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-205</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">206</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Labis [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-206</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-206</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">207</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Simpang Renggam [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-207</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-207</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">208</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kluang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-208</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-208</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">209</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Paloh [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-209</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-209</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">210</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Gajah [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-210</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-210</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">211</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Kahang Baharu [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-211</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-211</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">212</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Padang Endau [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-212</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-212</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">213</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kota Tinggi [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-213</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-213</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">214</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengerang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-214</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-214</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">215</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Sedili Kechil [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-215</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-215</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">216</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Babi Hujong [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-216</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-216</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">217</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Tioman [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-217</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-217</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">218</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Sungai Rengit [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-218</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-218</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">219</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sabah &amp;amp; Wilayah Persekutuan Labuan [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-219</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">220</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Peta pelancongan Pulau Pangkor (Perak) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-220</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">221</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tanah Merah (Kelantan) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-221</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">222</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">George Town (Pulau Pinang) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-222</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-222</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-222</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">223</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bandar Melaka dan Ayer Keroh (Melaka) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-223</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">224</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Tioman (Pahang) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-224</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">225</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Padang Besar [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-225</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-225</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">226</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Yan Besar [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-226</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-226</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">227</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampong Lubok Bongor [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-227</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-227</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">228</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Dabong [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-228</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-228</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">229</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Manir (Terengganu) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-229</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">230</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampong Bertam Bharu [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-230</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-230</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">231</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampong Kuala Aring [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-231</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-231</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">232</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gunong Ayam [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-232</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-232</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">233</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Merapuh [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-233</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-233</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">234</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Taman Negara (Pahang) [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-234</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-234</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">235</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Kuala Jengai [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-235</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-235</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">236</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Dungun [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-236</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-236</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">237</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pantai Remis [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-237</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-237</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">238</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ipoh (Perak) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-238</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">239</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cameron Highlands  [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-239</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-239</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">240</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cegar Perah [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-240</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-240</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">241</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Sentang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-241</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-241</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u245</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000223t1994    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/80 1994</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kampung Pasir Raja</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Kampung Pasir Raja (Terengganu)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 80</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Kampung Pasir Raja (Terengganu)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara </subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 80</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">070613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">242</subfield>
+    <subfield code="d">242</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/80 1994</subfield>
+    <subfield code="p">30000004295154</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/80 1994</subfield>
+    <subfield code="p">30000010274035</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u246</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000222 1995                        may</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340269</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/89 1995</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lipis</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Lipis (Pahang)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur ::</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara, Malaysia,</subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 89</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Kuala Lipis (Pahang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 89</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">081013</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">243</subfield>
+    <subfield code="d">243</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/89 1995</subfield>
+    <subfield code="p">30000004295097</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/89 1995</subfield>
+    <subfield code="p">30000010274049</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u247</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000222 1994                        may</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340289</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/92 1994</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sungai Cerul</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Sungai Cerul (Terengganu)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara, Malaysia,</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 92</subfield>
+  </datafield>
+  <datafield tag="506" ind1="1" ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Sungai Cerul (Terengganu)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 92</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">081014</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">244</subfield>
+    <subfield code="d">244</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/92 1994</subfield>
+    <subfield code="p">30000004295105</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/92 1994</subfield>
+    <subfield code="p">30000010274039</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u248</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000222 1996                        may</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340300</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/95 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bagan Datuk</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Bagan Datuk (Perak)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara, Malaysia,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 95</subfield>
+  </datafield>
+  <datafield tag="506" ind1="1" ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Bagan Datuk (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 95</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">081014</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">245</subfield>
+    <subfield code="d">245</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/95 1996</subfield>
+    <subfield code="p">30000004295121</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/95 1996</subfield>
+    <subfield code="p">30000010274041</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u249</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000222 1994                        may</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340326</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/98 1994</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kampung Satak</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Kampung Satak (Pahang)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara, Malaysia,</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 98</subfield>
+  </datafield>
+  <datafield tag="506" ind1="1" ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Kampung Satak (Pahang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 98</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">081014</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">246</subfield>
+    <subfield code="d">246</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/98 1994</subfield>
+    <subfield code="p">30000004295048</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/98 1994</subfield>
+    <subfield code="p">30000010274042</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">247</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Dong [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-247</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-247</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u251</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">990908 1996</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340336</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/106 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sabak</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Sabak (Selangor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara, Malaysia,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 106</subfield>
+  </datafield>
+  <datafield tag="506" ind1="1" ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Sabak (Selangor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 106</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">090713</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">248</subfield>
+    <subfield code="d">248</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/106 1996</subfield>
+    <subfield code="p">30000004052407</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/106 1996</subfield>
+    <subfield code="p">30000010274056</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u252</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000223</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340339</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/108 1994</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tanjong Malim (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1st ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Tanjung Malim (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">249</subfield>
+    <subfield code="d">249</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/108 1994</subfield>
+    <subfield code="p">30000004295204</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u253</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000223 1996</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340346</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/110 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kampung Penderas</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2=" ">
+    <subfield code="a">Kampung Penderas (Pahang)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="c">col. ;63 x 63cm on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 110</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Kampung Penderas (Pahang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 110</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">HH/bb</subfield>
+    <subfield code="b">090713</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">250</subfield>
+    <subfield code="d">250</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/110 1996</subfield>
+    <subfield code="p">30000004295188</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/110 1996</subfield>
+    <subfield code="p">30000010274058</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">251</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Maran [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-251</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-251</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">252</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gambang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-252</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-252</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">253</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tanjong Karang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-253</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-253</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">254</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Rawang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-254</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-254</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">255</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Temerluh [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-255</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-255</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">256</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cenur [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-256</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-256</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">257</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tasik Cini [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-257</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-257</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">258</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kuala Lumpur dan Petaling Jaya [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-258</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-258</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">259</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Titi [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-259</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-259</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">260</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Tasek Bera (Pahang) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-260</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">261</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Muadzam Shah [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-261</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-261</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">262</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Nenasi [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-262</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-262</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">263</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bahau [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-263</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-263</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">264</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Balai Badang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-264</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-264</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">265</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cenderawasih [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-265</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-265</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">266</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pulau Tioman [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-266</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-266</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">267</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Port Dickson [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-267</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-267</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">268</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gemencheh [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-268</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-268</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">269</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Segamat (Johor) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-269</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">270</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ayer Panas (Johor) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-270</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">271</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Padang Endau [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-271</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-271</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">272</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Teriang Besar [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-272</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-272</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">273</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pasir Panjang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-273</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-273</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">274</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Melaka [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-274</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">275</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Jasin [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-275</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-275</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u279</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000225t1997    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/157 1997</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Paloh</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Paloh (Johor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 157</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Paloh (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara </subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 157</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">110613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">276</subfield>
+    <subfield code="d">276</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/157 1997</subfield>
+    <subfield code="p">30000004294090</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/157 1997</subfield>
+    <subfield code="p">30000010274087</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u280</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000225t1996    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/158 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kampung Kahang Baharu</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Kampung Kahang Baharu (Johor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 158</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Kampung Kahang Baharu (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 158</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">070613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">277</subfield>
+    <subfield code="d">277</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/158 1996</subfield>
+    <subfield code="p">30000004294108</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/158 1996</subfield>
+    <subfield code="p">30000010274086</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u281</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000225t1996    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/159 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Mersing</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2=" ">
+    <subfield code="a">Mersing (Johor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 159</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Mersing (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 159</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">070613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">278</subfield>
+    <subfield code="d">278</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/159 1996</subfield>
+    <subfield code="p">30000004294116</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/159 1996</subfield>
+    <subfield code="p">30000010274085</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u282</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000223</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340439</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/161 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Muar (Johor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1st ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Muar (Johor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">279</subfield>
+    <subfield code="d">279</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/161 1996</subfield>
+    <subfield code="p">30000004295352</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u283</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000224</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">340447</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/162 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bakri (Johor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1st ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Bakri (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">280</subfield>
+    <subfield code="d">280</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/162 1996</subfield>
+    <subfield code="p">30000004295485</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">281</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Yong Peng [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-281</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-281</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u285</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000224t1997    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/164 1997</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kluang</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2=" ">
+    <subfield code="a">Kluang (Johor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 164</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Kluang (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 164</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">170613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">282</subfield>
+    <subfield code="d">282</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/164 1997</subfield>
+    <subfield code="p">30000004295469</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/164 1997</subfield>
+    <subfield code="p">30000010274090</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u286</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005337.0</controlfield>
+  <controlfield tag="008">000223t1996    my        b  f      eng</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UTM</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI DNMM 5101/166 1996</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Gunung Sumalayang</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">Pengarah Pemetaan Negara</subfield>
+  </datafield>
+  <datafield tag="246" ind1="0" ind2=" ">
+    <subfield code="a">Gunung Sumalayang (Johor)</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Edisi 1-PPNM</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Skala 1:50,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col. ;</subfield>
+    <subfield code="c">63 x 63cm. on sheet 70 x 90cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Siri DNMM 5101 (Jabatan Ukur dan Pemetaan Malaysia) ;</subfield>
+    <subfield code="v">Lembar 166</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Restricted map</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="a">Gunung Sumalayang (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2=" ">
+    <subfield code="a">Malaysia.</subfield>
+    <subfield code="b">Direktorat Pemetaan Negara </subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NAJ/bb</subfield>
+    <subfield code="b">170613</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">283</subfield>
+    <subfield code="d">283</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">10.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/166 1996</subfield>
+    <subfield code="p">30000004295444</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">10.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">20.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI DNMM 5101/166 1996</subfield>
+    <subfield code="p">30000010274092</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">20.00</subfield>
+    <subfield code="y">MAPMAS</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">284</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Sedili Besar [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-284</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-284</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">285</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Simpang Renggam [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-285</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">286</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kota Tinggi [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-286</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-286</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">287</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampung Sedili Kechil [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-287</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - Malaysia</subfield><subfield code="b">Map - Malaysia</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-287</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">288</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sekudai (Johor) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-288</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">289</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengerang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-289</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-289</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">290</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Seremban (Negeri Sembilan) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-290</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">291</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Lancang [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-291</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-291</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">292</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kudat (Sabah) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-292</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">293</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Temerluh [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-293</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-293</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">294</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sungai Lembing [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-294</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-294</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">295</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Wilayah Persekutuan : Kuala Lumpur [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-295</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-295</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-295</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-295</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">296</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Visual aids for English spoken here : consumer information [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-296</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">297</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Visual aids for English spoken here : health and safety [carta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-297</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">298</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Moellering, Harold</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Crosstable of National and International Spatial Data Transfer Standards / edited by Harold Moellering</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Chart Accompanies - Archives</subfield><subfield code="b">Chart Accompanies - Archives</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-298</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">299</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sepang (Selangor) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-299</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">300</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Malaysia. Direktorat Pemetaan Negara</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kuala Selangor [cartographic material] / Pengarah Pemetaan Negara</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-300</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-300</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ KL Library</subfield><subfield code="p">UTM-300</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">301</controlfield>
+    <controlfield tag="003">UTM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UTM</subfield><subfield code="c">UTM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">PSZ JB Library</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kampar (Perak) [peta]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Map - General</subfield><subfield code="b">Map - General</subfield><subfield code="o">PSZ JB Library</subfield><subfield code="p">UTM-301</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">utm</subfield></datafield>
+  </record>
+</collection>
