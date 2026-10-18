@@ -1,0 +1,5399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3011</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305825</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Kn5 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tanah Merah (Kelantan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Tanah Merah (Kelantan)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3005</subfield>
+    <subfield code="d">3005</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3012</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305830</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Kn7 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Rantau Panjang (Kelantan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rantau Panjang (Kelantan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3006</subfield>
+    <subfield code="d">3006</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3013</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305832</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G4414 M6 1968</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mexico</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Budapest :</subfield>
+    <subfield code="b">National Office of Lands &amp;amp; Mapping,</subfield>
+    <subfield code="c">1968</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mexico (City)</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mexico (State)</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3007</subfield>
+    <subfield code="d">3007</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3014</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305834</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Kn11 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Jeli (Kelantan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Jeli (kelantan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3008</subfield>
+    <subfield code="d">3008</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3015</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305839</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Mk8 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Alur Gajah (Melaka)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Alur Gajah (Melaka)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3009</subfield>
+    <subfield code="d">3009</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3016</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305841</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">00000054</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ns2 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2=" ">
+    <subfield code="a">Kuala Pilah (Negeri Sembilan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Pilah (Negeri Sembilan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3010</subfield>
+    <subfield code="d">3010</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3017</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305845</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ns4 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Bahau (Negeri Sembilan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bahau (Negeri Sembilan)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3011</subfield>
+    <subfield code="d">3011</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3018</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305848</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ns8 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Titi (Negeri Sembilan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Titi (Negeri Sembilan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3012</subfield>
+    <subfield code="d">3012</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3019</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305850</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ruseng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G4971 C1 1967</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Puerto Rico</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Budapest :</subfield>
+    <subfield code="b">National Office of Lands &amp;amp; Mapping,</subfield>
+    <subfield code="c">1967</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Puerto Rico</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Puerto Rico</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3013</subfield>
+    <subfield code="d">3013</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3020</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970104</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305852</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ns9 1985</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Klawang (Negeri Sembilan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Klawang (Negeri Sembilan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3014</subfield>
+    <subfield code="d">3014</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3021</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305854</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ns10 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Rembau (Negeri Sembilan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rembau (Negeri Sembilan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3015</subfield>
+    <subfield code="d">3015</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3022</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305857</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa1 1976</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kuantan (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1976</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">99</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuantan (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3016</subfield>
+    <subfield code="d">3016</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3023</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305860</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa2 1975</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Bentong (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1="0" ind2="0">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1975</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bentung (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3017</subfield>
+    <subfield code="d">3017</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3024</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305939</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">00000037</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa3 1985</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2=" ">
+    <subfield code="a">Raub (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Raub (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3018</subfield>
+    <subfield code="d">3018</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3025</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305940</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa5 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Mentakab (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mentakab (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3019</subfield>
+    <subfield code="d">3019</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3026</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305944</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L7010/56 1969</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Gunong Bedong (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:63,360</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1969</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Gunong Bedong (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3020</subfield>
+    <subfield code="d">3020</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3027</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305950</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa6 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Teriang (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Teriang (Pahang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3021</subfield>
+    <subfield code="d">3021</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3028</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">961209</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305960</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa10 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pekan (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1975</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Pekan (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3022</subfield>
+    <subfield code="d">3022</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3029</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305964</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pa13 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Gambang (Pahang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Gambang (Pahang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3023</subfield>
+    <subfield code="d">3023</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3030</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305967</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg1a 1978</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">George Town (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">6th ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1978</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">George Town (Pulau Pinang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3024</subfield>
+    <subfield code="d">3024</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3031</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305970</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg1c 1978</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">George Town (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1978</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">George Town (Pulau Pinang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3025</subfield>
+    <subfield code="d">3025</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3032</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305972</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg3 1972</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Bukit Mertajam (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1972</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bukit Mertajam (Pulau Pinang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3026</subfield>
+    <subfield code="d">3026</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3033</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305974</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg5 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Nibung Tebal (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Nibung Tebal (Pulau Pinang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3027</subfield>
+    <subfield code="d">3027</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3034</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">961216</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305979</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg7 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sungai Bakap (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Sungai Bakap (Pulau Pinang)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3028</subfield>
+    <subfield code="d">3028</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3035</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305981</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pg8 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Balik Pulau (Pulau Pinang)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Balik Pulau (Pulau Pinang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3029</subfield>
+    <subfield code="d">3029</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3036</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970102</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305983</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk1a 1979</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1979</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3030</subfield>
+    <subfield code="d">3030</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3037</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970102</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305984</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk1b 1979</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1979</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3031</subfield>
+    <subfield code="d">3031</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3038</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970102</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305986</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk1c 1979</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1979</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3032</subfield>
+    <subfield code="d">3032</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3039</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970102</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305988</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk1d 1979</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1979</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Ipoh (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3033</subfield>
+    <subfield code="d">3033</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3040</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">305997</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk2 1980</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Taiping (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1980</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Taiping (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3034</subfield>
+    <subfield code="d">3034</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3041</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306001</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk3 1975</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Telok Anson (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1975</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Telok Anson (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3035</subfield>
+    <subfield code="d">3035</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3042</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306004</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk5 1974</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sungai Siput (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Jabatanarah Pemetaan Negara,</subfield>
+    <subfield code="c">1974</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Sungai Siput (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3036</subfield>
+    <subfield code="d">3036</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3043</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306021</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk6 1971</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kuala Kangsar (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">DPNM,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Kangsar (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3037</subfield>
+    <subfield code="d">3037</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3044</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306030</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk8 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tapah (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Tapah (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3038</subfield>
+    <subfield code="d">3038</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3045</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306032</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5200.C1 S67 1974</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">South America :</subfield>
+    <subfield code="b">physical /</subfield>
+    <subfield code="c">prepared by George Westermann Verlag</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Wall map : col.; 190cm x 145cm</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">South America</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2="0">
+    <subfield code="a">Georg Westermann Verlag</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3039</subfield>
+    <subfield code="d">3039</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3046</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306034</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk9 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Menglembu (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Menglembu (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3040</subfield>
+    <subfield code="d">3040</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3047</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306036</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5273 C29 1964</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cayenne</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1964</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Cayenne</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">French Guiana</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3041</subfield>
+    <subfield code="d">3041</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3048</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306041</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk11 1985</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mambang Diawan (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Mambang Diawan (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3042</subfield>
+    <subfield code="d">3042</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3049</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306042</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5284 C37 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Caracas</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Caracas</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Venezuela</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3043</subfield>
+    <subfield code="d">3043</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3050</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306046</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5294 B63 1964</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bogota</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1964</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bogota</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Colombia</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3044</subfield>
+    <subfield code="d">3044</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3051</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306050</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5302 M37 1967</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bindloe Island (Isla Marchena)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Budapest :</subfield>
+    <subfield code="b">National Office of Lands &amp;amp; Maping,</subfield>
+    <subfield code="c">1967</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bindloe Island</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3045</subfield>
+    <subfield code="d">3045</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3052</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306055</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5304 Q8 1969</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Quito</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 :2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Head Office of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1969</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Quito</subfield>
+    <subfield code="x">Population density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Ecuador</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3046</subfield>
+    <subfield code="d">3046</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3053</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306057</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5324 L36 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">La Paz</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 :2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">La Paz</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bolivia</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3047</subfield>
+    <subfield code="d">3047</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3054</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306060</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5332 J8 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Juan Fernandez Islands</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Juan Fernandez Islands</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Juan Fernandez Island</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3048</subfield>
+    <subfield code="d">3048</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3055</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306062</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">LTK</subfield>
+    <subfield code="b">NA7437.M34 R5412 1981 ra</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Rumah Hj Jeludin, Kg Bolok Hilir, Lancang, Pahang /</subfield>
+    <subfield code="c">Mahmud bin Mohd. Jusan ... [dll.]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">UTM,</subfield>
+    <subfield code="c">1981</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">9 lukisan teknik (kertas trasing);</subfield>
+    <subfield code="c">59.5 x 85 - 84.5 x 116 sm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Juga terdapat dalam bentuk kad apertur : KAP 056 ra</subfield>
+  </datafield>
+  <datafield tag="507" ind1=" " ind2=" ">
+    <subfield code="a">1/2 inci : 1 kaki</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">02</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PRZSL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Houses</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Pahang</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Architecture, Domestic</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Pahang</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Mahmud Mohd. Jusan,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Wan Zainal Rashid Wan Ahmad</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Ahmad Fauzi Abdul Wahab</subfield>
+  </datafield>
+  <datafield tag="700" ind1="0" ind2=" ">
+    <subfield code="a">Shariff Ali Jabad Ali</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">TECHDRAW</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3049</subfield>
+    <subfield code="d">3049</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3056</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306066</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5334 C65 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Concepcion</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Concepcion</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3050</subfield>
+    <subfield code="d">3050</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3057</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306069</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk12 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Parit Buntar dan Bandar Baharu (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Parit Buntar (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bandar Baharu (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3051</subfield>
+    <subfield code="d">3051</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3058</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306071</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5352 A73 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Argentine Basin (Western part)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Argentine Basin</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3052</subfield>
+    <subfield code="d">3052</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3059</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306072</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk13 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bidur (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Bidur (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3053</subfield>
+    <subfield code="d">3053</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3060</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306074</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk14 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bagan Serai (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Bagan Serai (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3054</subfield>
+    <subfield code="d">3054</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3061</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">961209</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306075</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk15 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kuala Kurau (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Kurau (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3055</subfield>
+    <subfield code="d">3055</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3062</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306076</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk17 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sitiawan (Perak)</subfield>
+    <subfield code="h">[perak]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Sitiawan (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3056</subfield>
+    <subfield code="d">3056</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3063</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306077</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5352 A73 1970</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Argentine Basin (Eastern part)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Moscow :</subfield>
+    <subfield code="b">Main Administration of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1970</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Argentine Basin, Eastern</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3057</subfield>
+    <subfield code="d">3057</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3064</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306078</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5354 B9 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="x">Transportation</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Argentina</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3058</subfield>
+    <subfield code="d">3058</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G5352 A73 1970</subfield>
+    <subfield code="p">30000004130831</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3065</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306080</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk20 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tanjung Piandang (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Tanjung Piandang (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3059</subfield>
+    <subfield code="d">3059</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI L905/Pk20 1983</subfield>
+    <subfield code="p">30000003636184</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI L905/Pk20 1983</subfield>
+    <subfield code="p">30000003636218</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI L905/Pk20 1983</subfield>
+    <subfield code="p">30000003456104</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">3</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3066</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306088</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk21 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Gerik (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Gerik (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3060</subfield>
+    <subfield code="d">3060</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI L905/Pk21 1986</subfield>
+    <subfield code="p">30000003455858</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA SIRI L905/Pk21 1986</subfield>
+    <subfield code="p">30000003636226</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3067</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306092</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk23 1985</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Gopeng (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Gopeng (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3061</subfield>
+    <subfield code="d">3061</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3068</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306094</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5354 M37 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">MAR del Plata</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Mar de Plata</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Argentina</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3062</subfield>
+    <subfield code="d">3062</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G5354 M37 1966</subfield>
+    <subfield code="p">30000004130799</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>000000000a0000000000</leader>
+  <controlfield tag="001">u3069</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306099</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5402 I54 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ilha da Trindade</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Ilha da Trindade</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Ilha da Trindade</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3063</subfield>
+    <subfield code="d">3063</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">lcc</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="a">PSZJBL</subfield>
+    <subfield code="b">PSZJBL</subfield>
+    <subfield code="c">MAPC</subfield>
+    <subfield code="g">0.00</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">PTA G5402 I54 1966</subfield>
+    <subfield code="p">30000004130757</subfield>
+    <subfield code="r">2020-12-18 00:00:00</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="v">0.00</subfield>
+    <subfield code="y">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3070</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306107</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5404 B4 1965</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Belem</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1965</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Belem</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Para</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3064</subfield>
+    <subfield code="d">3064</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3071</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306119</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5404 M3 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Manaus /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Manaus</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Amazon River Region</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3065</subfield>
+    <subfield code="d">3065</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3072</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306150</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ps1 1975</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kangar (Perlis)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1975</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kangar (Perlis)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3066</subfield>
+    <subfield code="d">3066</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3073</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306152</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk26 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cemur (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Cemur (Perak)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3067</subfield>
+    <subfield code="d">3067</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3074</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306155</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Pk30 1986</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Selama (Perak)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Selama (Perak)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3068</subfield>
+    <subfield code="d">3068</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3075</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306156</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">AP5119</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">LTK</subfield>
+    <subfield code="b">TJ1300.A93 1989 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Azahari Matt</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Merekabentuk mesin pelenturan tiub/</subfield>
+    <subfield code="c">Azahari Matt</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Sekudai :</subfield>
+    <subfield code="b">UTM,</subfield>
+    <subfield code="c">1989</subfield>
+  </datafield>
+  <datafield tag="300" ind1="0" ind2="0">
+    <subfield code="a">2 lukisan teknik (blueprint);</subfield>
+    <subfield code="c">56.5 x 81sm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Juga terdapat dalam bentuk mikrofilem : MFL 5361 ra</subfield>
+  </datafield>
+  <datafield tag="502" ind1="0" ind2="0">
+    <subfield code="a">Tesis (Sarjana Muda Kejuruteraan Jentera) - Universiti Teknologi Malaysia, 1989</subfield>
+  </datafield>
+  <datafield tag="507" ind1=" " ind2=" ">
+    <subfield code="a">1:5</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">20</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Bending machines</subfield>
+    <subfield code="x">Design and construction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Tube bending</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">CHRTACARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3069</subfield>
+    <subfield code="d">3069</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3076</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306157</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Ps3 1982</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Padang Besar (Perlis)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:3,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1982</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Padang Besar (Perlis)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3070</subfield>
+    <subfield code="d">3070</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3077</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306162</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Se6 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sekincan (Selangor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Sekincan (Selangor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3071</subfield>
+    <subfield code="d">3071</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3078</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306163</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5404 P6 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Porto Alegre /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Porto Alegre</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rio Grande do Sul</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3072</subfield>
+    <subfield code="d">3072</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3079</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306168</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5404 R3 1965</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Recife /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1965</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Recife</subfield>
+    <subfield code="x">Population</subfield>
+    <subfield code="x">Density</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Recife</subfield>
+    <subfield code="x">Submarine</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3073</subfield>
+    <subfield code="d">3073</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3080</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306169</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Se8 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Banting dan Teluk Datuk (Selangor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Banting (Selangor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Teluk Datuk (Selangor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3074</subfield>
+    <subfield code="d">3074</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3081</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306171</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5404 R6 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Rio de Janeiro /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Dept of Geodesy &amp;amp; Cartography,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rio de Janeiro (City)</subfield>
+    <subfield code="x">Population</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rio de Janeiro (State)</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3075</subfield>
+    <subfield code="d">3075</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3082</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306172</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Se11 1984</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kuala Selangor (Selangor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Selangor (Selangor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3076</subfield>
+    <subfield code="d">3076</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3083</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306174</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Se12 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tanjung Karang (Selangor)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Tanjung Karang (Selangor)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3077</subfield>
+    <subfield code="d">3077</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3084</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306175</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5691 P1 1972</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Eurasia /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 15,000,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Edinburgh :</subfield>
+    <subfield code="b">Bartholomew,</subfield>
+    <subfield code="c">1972</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Eurasia</subfield>
+    <subfield code="x">Boundaries</subfield>
+    <subfield code="x">International</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Eurasia</subfield>
+    <subfield code="x">Transportation</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Bartholomew (John) &amp;amp; Sons, Ltd.</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3078</subfield>
+    <subfield code="d">3078</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3085</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306180</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5700 D84 1963</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Soil map of Europe /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 2,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Rome :</subfield>
+    <subfield code="b">FAO,</subfield>
+    <subfield code="c">1963</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by Soil map of Europe,explanatory text by R Dudal R Tavernier &amp;amp; D Osmand</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Soils</subfield>
+    <subfield code="z">Europe</subfield>
+    <subfield code="x">Classification</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Geology</subfield>
+    <subfield code="z">Europe</subfield>
+    <subfield code="x">Maps</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Rain and rainfall</subfield>
+    <subfield code="z">Europe</subfield>
+    <subfield code="x">Maps</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3079</subfield>
+    <subfield code="d">3079</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3086</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306188</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5700.D84 1966 rf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dudal, R.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Soil map of Europe :</subfield>
+    <subfield code="b">explanatory text /</subfield>
+    <subfield code="c">by R Dudal, R Tavernier, D Osmond</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Rome :</subfield>
+    <subfield code="b">Food &amp;amp; Agriculture Organization of the United Nations,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Soils</subfield>
+    <subfield code="z">Europe</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Tavernier, R.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="0">
+    <subfield code="a">Osmond, D.</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3080</subfield>
+    <subfield code="d">3080</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3087</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306197</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701 C22 1977</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Europe /</subfield>
+    <subfield code="h">[peta]</subfield>
+    <subfield code="c">compiled and drawn in the Cartographic Division of the National Geographic Society for the National Geographic Magazine</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 6,488,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Washington, D C :</subfield>
+    <subfield code="b">National Geographic Soc.,</subfield>
+    <subfield code="c">1977</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On verso : Celtic Europe : 1 : 5,512,000</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Europe</subfield>
+    <subfield code="x">Relief</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2="0">
+    <subfield code="a">National Geographic Society</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3081</subfield>
+    <subfield code="d">3081</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3088</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306200</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">00000053</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2="0">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Tr1 1971</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2=" ">
+    <subfield code="a">Kuala Terengganu (Terengganu)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Terengganu (Terengganu)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3082</subfield>
+    <subfield code="d">3082</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3089</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306201</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C22 1977</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Celtic Europe /</subfield>
+    <subfield code="c">produced by the NAtional Geographic Soc</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 5,512,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Washington, D C :</subfield>
+    <subfield code="b">National Geographic Soc.,</subfield>
+    <subfield code="c">1977</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On verso : Europe : 1 : 6,488,000</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Celts</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2="0">
+    <subfield code="a">National Geographic Society</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3083</subfield>
+    <subfield code="d">3083</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3090</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306207</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I58 1971</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gaertner, H. R. Von</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">International geological map of Europe and the Mediterranean region /</subfield>
+    <subfield code="h">[peta]</subfield>
+    <subfield code="c">H R Von Gaertner</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 5,000,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundestanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">2 sheets texplanatory note</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Europe</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mediterranean Region</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3084</subfield>
+    <subfield code="d">3084</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3091</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306208</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Tr2 1973</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Dungun (Terengganu)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:10,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Pengarah Pemetaan Negara,</subfield>
+    <subfield code="c">1973</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Dungun (Terengganu)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3085</subfield>
+    <subfield code="d">3085</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3092</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306215</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Tr4 1985</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Besut &amp;amp; Kampung Raja (Terengganu)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:7,500</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Besut (Terengganu)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kampung Raja (Terengganu)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3086</subfield>
+    <subfield code="d">3086</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3093</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306218</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Tr5 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Jertih (Terengganu)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Jertih (Terengganu)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3087</subfield>
+    <subfield code="d">3087</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3094</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306222</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1977 j.A1</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Isafjordhur /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1977</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Isafjordhur, Norway</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3088</subfield>
+    <subfield code="d">3088</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3095</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306224</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="4">
+    <subfield code="a">LTK</subfield>
+    <subfield code="b">HD9235.M95 T23 1990 ra</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Tajuddin Arshad Mat Ghani</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Merekabentuk alat memproses cendawan /</subfield>
+    <subfield code="c">Tajuddin Md Jahi</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Skudai :</subfield>
+    <subfield code="b">Universiti Teknologi Malaysia,</subfield>
+    <subfield code="c">1990</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">9 lukisan teknik;</subfield>
+    <subfield code="b">h &amp;amp;  p;</subfield>
+    <subfield code="c">90 x 113 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Melampiri teks yang berjudul sama</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Juga terdapat dalam bentuk mikrofilem : MFL 6543 ra</subfield>
+  </datafield>
+  <datafield tag="507" ind1=" " ind2=" ">
+    <subfield code="a">Sekil pelbagai</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">22</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="597" ind1=" " ind2=" ">
+    <subfield code="a">2:LTK HD9235.M95 T23 1990 ra Bound PIECES.1</subfield>
+    <subfield code="a">3:LTK HD9235.M95 T23 1990 ra Bound PIECES.2</subfield>
+    <subfield code="a">4:LTK HD9235.M95 T23 1990 ra Bound PIECES.3</subfield>
+    <subfield code="a">5:LTK HD9235.M95 T23 1990 ra Bound PIECES.4</subfield>
+    <subfield code="a">6:LTK HD9235.M95 T23 1990 ra Bound PIECES.5</subfield>
+    <subfield code="a">7:LTK HD9235.M95 T23 1990 ra Bound PIECES.7</subfield>
+    <subfield code="a">8:LTK HD9235.M95 T23 1990 ra Bound PIECES.9</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mushroom industry</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mushroom culture</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Mushrooms</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">NY</subfield>
+    <subfield code="b">280990</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">BK</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3089</subfield>
+    <subfield code="d">3089</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3096</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306234</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/Tr7 1983</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kuala Berang (Terengganu)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:5,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Kuala Berang (Terengganu)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3090</subfield>
+    <subfield code="d">3090</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3097</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306236</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1978</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Reykjavik /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1977</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Reykjavik (Iceland)</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3091</subfield>
+    <subfield code="d">3091</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3098</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306239</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L905/77/1 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bukit Fraser :</subfield>
+    <subfield code="b">Fraser&apos;s Hill</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:6,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Bukit Fraser (Pahang)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3092</subfield>
+    <subfield code="d">3092</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3099</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306240</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">may</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">LTK</subfield>
+    <subfield code="b">HT169.M32 M49 1981 raf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Normi Nasaruddin</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Pembaharuan bandar lama Melaka /</subfield>
+    <subfield code="h">[lukisan teknik]</subfield>
+    <subfield code="c">Normi Nasaruddin</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">8 lukisan teknik (blueprint);</subfield>
+    <subfield code="c">76 x 103.5 sm atau lebih kecil</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Melampiri teks yang bertajuk sama</subfield>
+  </datafield>
+  <datafield tag="507" ind1=" " ind2=" ">
+    <subfield code="a">Sekil tidak tetap</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">City planning</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="z">Melaka</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">CHRTACARC</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3093</subfield>
+    <subfield code="d">3093</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3100</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306242</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1964</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Carte geologique internationale de&apos;I Europe</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstlat fur Bodenforschung,</subfield>
+    <subfield code="c">1964</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Europe</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3094</subfield>
+    <subfield code="d">3094</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3101</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306250</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1974</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">La Coruna /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1974</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">La Coruna, Spain</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3095</subfield>
+    <subfield code="d">3095</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3102</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970106</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306254</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L7010/6 1969</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kg Peng Kubor (Kelantan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:63,360</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1969</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Kg Peng Kubor (Kelantan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3096</subfield>
+    <subfield code="d">3096</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3103</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306255</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1977</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Scoresby Sund /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="b">1977</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Scoresby Sund, Greeland</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3097</subfield>
+    <subfield code="d">3097</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3104</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306257</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L7010/7 1973</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tumpat (Kelantan)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1="0" ind2="0">
+    <subfield code="a">2nd ed</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:63,360</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1973</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2="0">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Tumpat (Kelantan)</subfield>
+    <subfield code="x">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3098</subfield>
+    <subfield code="d">3098</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3105</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306263</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1978</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Akureyri /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1978</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Akureyri, Iceland</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3099</subfield>
+    <subfield code="d">3099</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3106</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306266</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1966</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Feuille /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1966</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Feuille, France</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3100</subfield>
+    <subfield code="d">3100</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3107</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306275</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1971</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">London /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1971</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">London</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3101</subfield>
+    <subfield code="d">3101</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3108</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306276</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1973</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Paris-Sud /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3rd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1973</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Paris-Sud (France)</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3102</subfield>
+    <subfield code="d">3102</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3109</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306277</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">SIRI L8010/114e 1959</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tangkak (Malacca &amp;amp; Johore)</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1:25,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1="0" ind2="0">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">PPNM,</subfield>
+    <subfield code="c">1959</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Akses terhad</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Tangkak (Johor)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Tangkak (Melaka)</subfield>
+    <subfield code="v">Maps, Topographic</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3103</subfield>
+    <subfield code="d">3103</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00000000000000000000</leader>
+  <controlfield tag="001">u3110</controlfield>
+  <controlfield tag="003">SIRSI</controlfield>
+  <controlfield tag="005">20201220005346.0</controlfield>
+  <controlfield tag="008">970107</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">306280</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">PTA</subfield>
+    <subfield code="b">G5701.C5 I59 1964</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Feuille /</subfield>
+    <subfield code="h">[peta]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2nd ed.</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">1 : 1,500,000</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hannover :</subfield>
+    <subfield code="b">Bundesanstalt fur Bodenforschung,</subfield>
+    <subfield code="c">1964</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">01</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">PSZJBL</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Feuille, France</subfield>
+    <subfield code="x">Geology</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">lcc</subfield>
+    <subfield code="c">MAPGEN</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">3104</subfield>
+    <subfield code="d">3104</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">utm</subfield>
+  </datafield>
+</record>
+</collection>

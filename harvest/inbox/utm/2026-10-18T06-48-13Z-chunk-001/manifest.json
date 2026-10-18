@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "utm",
+  "source_name": "Perpustakaan Sultanah Zanariah (Universiti Teknologi Malaysia)",
+  "source_base_url": "https://opac.utm.my/",
+  "terms_url": "https://library.utm.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "utm-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T06-48-13Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T08:43:10.567Z",
+  "finished_at": "2026-10-18T08:43:10.567Z",
+  "record_count": 10000,
+  "error_count": 1,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/utm; contact@pustakaterbuka.org)",
+  "notes": "UTM harvest completed. Total: 10000 records."
+}
